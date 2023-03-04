@@ -1,4 +1,4 @@
 hello world
-this is a second line added with conflict from github site. 
+this is a second line added without conflict from github site. 
 now  i'm causing a conflict in the second line
 
